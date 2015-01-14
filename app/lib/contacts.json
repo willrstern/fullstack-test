@@ -1,0 +1,302 @@
+[
+  {
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "firstName": "Perez",
+    "lastName": "Blair",
+    "gender": "male",
+    "company": "MONDICIL",
+    "email": "perezblair@mondicil.com",
+    "phone": "+1 (893) 591-3423",
+    "address": "566 Erasmus Street, Ripley, Marshall Islands, 7133",
+    "about": "Irure sit non ullamco cupidatat nisi consequat. Velit ad dolor sit adipisicing commodo elit commodo consequat cillum. Nulla reprehenderit tempor et voluptate pariatur velit duis anim ex nisi. Ex eu tempor exercitation dolore commodo ipsum eiusmod nisi deserunt eiusmod aliquip pariatur voluptate magna. Cupidatat excepteur amet dolore duis proident irure ut aliqua commodo. Velit adipisicing ut sint non nulla aliqua anim ex nisi enim cillum. Et elit consequat anim consequat pariatur dolor mollit duis incididunt ullamco.\r\n",
+    "latitude": -37.408684,
+    "longitude": 144.528124,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Stella Simmons"
+      },
+      {
+        "id": 1,
+        "name": "Vaughan Schroeder"
+      },
+      {
+        "id": 2,
+        "name": "Althea Stout"
+      }
+    ],
+    "greeting": "Hello, undefined! You have 10 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "firstName": "Mccormick",
+    "lastName": "Reid",
+    "gender": "male",
+    "company": "OBLIQ",
+    "email": "mccormickreid@obliq.com",
+    "phone": "+1 (814) 540-2619",
+    "address": "523 Kent Street, Wiscon, Colorado, 2151",
+    "about": "Non laborum ullamco laborum velit culpa ex veniam amet eu. Consequat cupidatat id fugiat culpa in fugiat ea dolore et do qui amet commodo. Sint dolore tempor pariatur veniam. Ut proident consequat ea dolore eu adipisicing non sunt commodo laboris laboris excepteur magna.\r\n",
+    "latitude": 36.243617,
+    "longitude": -61.535432,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Laurie Ruiz"
+      },
+      {
+        "id": 1,
+        "name": "Pat Robles"
+      },
+      {
+        "id": 2,
+        "name": "Stanton Sharp"
+      }
+    ],
+    "greeting": "Hello, undefined! You have 4 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "picture": "http://placehold.it/32x32",
+    "age": 39,
+    "firstName": "Baldwin",
+    "lastName": "Vaughan",
+    "gender": "male",
+    "company": "ISOTRACK",
+    "email": "baldwinvaughan@isotrack.com",
+    "phone": "+1 (952) 462-3842",
+    "address": "805 Louisiana Avenue, Hobucken, California, 1438",
+    "about": "Laboris pariatur velit cillum irure ut laborum. Aute do qui consequat nulla ullamco. Magna ut nostrud proident aliquip veniam in. Ut exercitation ullamco officia labore eiusmod nostrud laborum. Esse qui in qui officia est exercitation. Nulla qui irure ea proident nostrud in exercitation pariatur.\r\n",
+    "latitude": 57.46983,
+    "longitude": 87.620611,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Selena Ayala"
+      },
+      {
+        "id": 1,
+        "name": "Hamilton Leach"
+      },
+      {
+        "id": 2,
+        "name": "Ollie Anthony"
+      }
+    ],
+    "greeting": "Hello, undefined! You have 5 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "picture": "http://placehold.it/32x32",
+    "age": 26,
+    "firstName": "Lawrence",
+    "lastName": "George",
+    "gender": "male",
+    "company": "KINETICA",
+    "email": "lawrencegeorge@kinetica.com",
+    "phone": "+1 (818) 533-2713",
+    "address": "926 Whitty Lane, Ventress, Hawaii, 8536",
+    "about": "Dolor deserunt sint ex duis enim magna excepteur proident ipsum magna anim exercitation exercitation. Officia minim ullamco reprehenderit esse magna do aliqua culpa ut cupidatat. Enim sunt ad quis eu adipisicing veniam minim non id. Occaecat sint do ad consectetur commodo. Laboris irure irure aute ullamco elit ea officia cupidatat deserunt qui consectetur.\r\n",
+    "latitude": -62.052492,
+    "longitude": -54.495676,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Talley Hartman"
+      },
+      {
+        "id": 1,
+        "name": "Phoebe Mccormick"
+      },
+      {
+        "id": 2,
+        "name": "Rutledge Fernandez"
+      }
+    ],
+    "greeting": "Hello, undefined! You have 7 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "picture": "http://placehold.it/32x32",
+    "age": 25,
+    "firstName": "Margarita",
+    "lastName": "Torres",
+    "gender": "female",
+    "company": "VIRXO",
+    "email": "margaritatorres@virxo.com",
+    "phone": "+1 (855) 595-3806",
+    "address": "420 McKinley Avenue, Dubois, Virginia, 367",
+    "about": "Excepteur id commodo ea ut aute ad laboris consectetur excepteur cupidatat in reprehenderit quis laborum. Dolore ex magna nulla sit. Incididunt veniam irure quis aute in ipsum nostrud occaecat ut proident fugiat reprehenderit adipisicing. Eu adipisicing laboris pariatur magna ea laborum voluptate.\r\n",
+    "latitude": -54.144268,
+    "longitude": 49.816451,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Rich Castaneda"
+      },
+      {
+        "id": 1,
+        "name": "Cara Goff"
+      },
+      {
+        "id": 2,
+        "name": "Esmeralda Fry"
+      }
+    ],
+    "greeting": "Hello, undefined! You have 4 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "picture": "http://placehold.it/32x32",
+    "age": 35,
+    "firstName": "Rosa",
+    "lastName": "Cabrera",
+    "gender": "male",
+    "company": "ORBIXTAR",
+    "email": "rosacabrera@orbixtar.com",
+    "phone": "+1 (908) 530-3847",
+    "address": "525 Dank Court, Skyland, New Jersey, 1543",
+    "about": "Enim do sint culpa ut. Nisi sint nostrud enim proident in est. Magna aliqua incididunt aliquip dolore voluptate do. Cupidatat eiusmod duis elit mollit amet esse. Cupidatat aliquip reprehenderit velit ut non magna.\r\n",
+    "latitude": 36.323716,
+    "longitude": 29.43949,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mason Rhodes"
+      },
+      {
+        "id": 1,
+        "name": "Rivers Mcclure"
+      },
+      {
+        "id": 2,
+        "name": "Latoya Fowler"
+      }
+    ],
+    "greeting": "Hello, undefined! You have 9 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "picture": "http://placehold.it/32x32",
+    "age": 24,
+    "firstName": "Whitney",
+    "lastName": "Rodriquez",
+    "gender": "female",
+    "company": "TALENDULA",
+    "email": "whitneyrodriquez@talendula.com",
+    "phone": "+1 (820) 484-2710",
+    "address": "991 Liberty Avenue, Avalon, Northern Mariana Islands, 8504",
+    "about": "Cillum aute mollit in velit. Irure veniam elit consectetur id eiusmod incididunt velit exercitation non ad consequat exercitation. Incididunt tempor aute veniam enim duis commodo excepteur velit dolore. Ex et quis fugiat pariatur duis commodo et enim labore. Duis cillum anim non commodo exercitation commodo dolor ipsum laborum exercitation. Amet velit esse est veniam commodo cupidatat mollit et laborum irure.\r\n",
+    "latitude": 34.763156,
+    "longitude": -173.17838,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Pittman Mathews"
+      },
+      {
+        "id": 1,
+        "name": "Rita Chen"
+      },
+      {
+        "id": 2,
+        "name": "Jacobson Cameron"
+      }
+    ],
+    "greeting": "Hello, undefined! You have 6 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "picture": "http://placehold.it/32x32",
+    "age": 32,
+    "firstName": "Tracie",
+    "lastName": "Compton",
+    "gender": "female",
+    "company": "COMBOGENE",
+    "email": "traciecompton@combogene.com",
+    "phone": "+1 (834) 568-2579",
+    "address": "219 Summit Street, Enoree, Wisconsin, 3678",
+    "about": "Amet dolore proident sit id duis ipsum. Sint anim non nulla ut officia laboris voluptate et esse ad dolore. Mollit et irure deserunt dolor sit elit velit aute nulla adipisicing ut elit. Laboris quis sit do in. Voluptate ipsum aliquip amet officia laborum nostrud cupidatat qui irure.\r\n",
+    "latitude": -77.854535,
+    "longitude": 77.267325,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Lambert Battle"
+      },
+      {
+        "id": 1,
+        "name": "Terrell Ochoa"
+      },
+      {
+        "id": 2,
+        "name": "Becky Lindsey"
+      }
+    ],
+    "greeting": "Hello, undefined! You have 7 unread messages.",
+    "favoriteFruit": "banana"
+  },
+  {
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "firstName": "Benita",
+    "lastName": "Stephenson",
+    "gender": "female",
+    "company": "JIMBIES",
+    "email": "benitastephenson@jimbies.com",
+    "phone": "+1 (943) 551-2970",
+    "address": "429 Ridge Boulevard, Croom, West Virginia, 4201",
+    "about": "Sunt consequat esse enim ex ipsum mollit do. Veniam laboris dolore nostrud pariatur excepteur et labore excepteur elit consequat. Sit eiusmod non non non nisi officia irure aliqua excepteur laborum adipisicing ut enim. Elit Lorem elit duis proident excepteur do occaecat pariatur et commodo labore nulla. Esse in tempor enim esse amet non eiusmod sunt in magna ad cupidatat in sint. Nisi duis anim velit laborum. Est veniam culpa Lorem occaecat elit adipisicing anim culpa ipsum ullamco laboris incididunt officia.\r\n",
+    "latitude": 58.451561,
+    "longitude": 163.44763,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Vivian Lowe"
+      },
+      {
+        "id": 1,
+        "name": "Olson Walter"
+      },
+      {
+        "id": 2,
+        "name": "Evangelina Pierce"
+      }
+    ],
+    "greeting": "Hello, undefined! You have 10 unread messages.",
+    "favoriteFruit": "apple"
+  },
+  {
+    "picture": "http://placehold.it/32x32",
+    "age": 20,
+    "firstName": "Cox",
+    "lastName": "Carver",
+    "gender": "male",
+    "company": "NETILITY",
+    "email": "coxcarver@netility.com",
+    "phone": "+1 (887) 418-2550",
+    "address": "520 Williamsburg Street, Curtice, Kentucky, 5286",
+    "about": "Commodo excepteur irure occaecat ut velit ullamco commodo nulla ut velit anim labore deserunt voluptate. Adipisicing ad do eu dolor. Aliquip qui adipisicing laboris enim. Anim eu aliquip consectetur occaecat. Elit id elit minim excepteur cupidatat do.\r\n",
+    "latitude": -75.088137,
+    "longitude": 60.791426,
+    "friends": [
+      {
+        "id": 0,
+        "name": "Geneva Rivera"
+      },
+      {
+        "id": 1,
+        "name": "Chandra Marsh"
+      },
+      {
+        "id": 2,
+        "name": "Melva Larson"
+      }
+    ],
+    "greeting": "Hello, undefined! You have 9 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]
